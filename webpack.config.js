@@ -12,7 +12,7 @@ module.exports = {
     library: 'typeahead',
     libraryExport: 'default', // to export only the default fn
     libraryTarget: 'umd',
-    globalObject: 'this',
+    globalObject: 'globalThis',
   },
   devtool: 'source-map',
   plugins: [

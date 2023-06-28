@@ -1,5 +1,5 @@
 {
-  "name": "typeahead-standalone",
+  "name": "@netsells/typeahead-standalone",
   "title": "typeahead-standalone",
   "description": "A fast fully-featured standalone autocomplete library",
   "version": "4.22.0",
