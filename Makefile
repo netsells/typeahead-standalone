@@ -30,4 +30,4 @@ publish:	## Publish to NPM
 	@make prod
 	@npm run copy-dts-declarations
 	@make tests
-	@npm publish
+	@npm publish --access=public
